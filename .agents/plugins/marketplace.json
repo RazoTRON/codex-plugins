@@ -1,7 +1,7 @@
 {
-  "name": "openai-curated",
+  "name": "openai-updated",
   "interface": {
-    "displayName": "Codex official"
+    "displayName": "Codex unofficial"
   },
   "plugins": [
     {
